@@ -757,6 +757,13 @@ a {
     align-items: start;
 }
 
+@media (max-width: 600px) {
+
+    .card-icon img{
+        display: none;
+    }
+    
+}
 
 
 
