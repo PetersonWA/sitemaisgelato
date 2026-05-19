@@ -82,3 +82,7 @@ Se você utilizar o template e postar no Instagram ou outra rede social, me marq
 ### Licença
 
 Este projeto está sob a licença MIT. Você é livre para usá-lo como quiser, tanto para uso pessoal quanto comercial.
+
+
+
+https://petersonwa.github.io/sitemaisgelato/#inicio
